@@ -12,3 +12,6 @@ https://randomguy1234.github.io/run-buddy-2.0/
 
 ## Contribution
 Made with ❤️ by Michael Brown
+
+
+### ©️2019 Run Buddy, Inc
